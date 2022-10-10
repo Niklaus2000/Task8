@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784933134404",
+    "project_id": "task8-befbe",
+    "storage_bucket": "task8-befbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784933134404:android:9ee380815820025d761c11",
+        "android_client_info": {
+          "package_name": "com.example.task8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784933134404-s01ab4jromhrlpf6b9etsun1f89bcmma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1a3aoIaQcb1WaAPIWkWzWtDoNMuzb15Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784933134404-s01ab4jromhrlpf6b9etsun1f89bcmma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

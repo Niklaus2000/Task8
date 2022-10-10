@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task8</string>
+    <string name="password">Password</string>
+    <string name="repeatpassword">RepeatPassword</string>
+</resources>
